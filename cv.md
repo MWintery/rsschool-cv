@@ -2,6 +2,11 @@
 
 ### Junior Frontend Developer
 
+## Contacts
+**GitHub:** [MWintery](https://github.com/MWintery)
+**Discord:** MWin
+**E-mail:** marsi.sol807@gmail.com
+**Phone:** +79264115276
 
 ## About me
 I want to improve my programming skills.
