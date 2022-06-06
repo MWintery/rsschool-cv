@@ -3,10 +3,10 @@
 ### Junior Frontend Developer
 
 ## Contacts
-**GitHub:** [MWintery](https://github.com/MWintery)
-**Discord:** MWin
-**E-mail:** marsi.sol807@gmail.com
-**Phone:** +79264115276
+* **GitHub:** [MWintery](https://github.com/MWintery)
+* **Discord:** MWin
+* **E-mail:** marsi.sol807@gmail.com
+* **Phone:** +79264115276
 
 ## About me
 I want to improve my programming skills.
@@ -17,7 +17,8 @@ I want to improve my programming skills.
 * Git, GitHub
 
 ## Code Example
-```function sum(a, b) {
+```
+function sum(a, b) {
   return a + b;
 }
 
