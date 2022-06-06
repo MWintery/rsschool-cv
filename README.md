@@ -1,1 +1,1 @@
-# rsschool-cv
+https://MWintery.github.io/rsschool-cv/
